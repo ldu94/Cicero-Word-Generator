@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<ExampleServerSettings xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <ServerName>p1</ServerName>
+  <PacketSize>900</PacketSize>
+  <SOCList>
+    <SOCServer>
+      <IPAddress>192.168.1.200</IPAddress>
+      <Port>2300</Port>
+      <Name>SOC1</Name>
+      <Status>Disconnected</Status>
+    </SOCServer>
+    <SOCServer>
+      <IPAddress>192.168.1.201</IPAddress>
+      <Port>2301</Port>
+      <Name>SOC2</Name>
+      <Status>Disconnected</Status>
+    </SOCServer>
+    <SOCServer>
+      <IPAddress>192.168.1.202</IPAddress>
+      <Port>2300</Port>
+      <Name>SOC3</Name>
+      <Status>Disconnected</Status>
+    </SOCServer>
+    <SOCServer>
+      <IPAddress>192.168.1.203</IPAddress>
+      <Port>2300</Port>
+      <Name>SOC4</Name>
+      <Status>Disconnected</Status>
+    </SOCServer>
+  </SOCList>
+</ExampleServerSettings>

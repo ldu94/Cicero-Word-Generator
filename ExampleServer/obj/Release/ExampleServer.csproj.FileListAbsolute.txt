@@ -1,0 +1,13 @@
+C:\Users\will\Documents\Cicero\Cicero-Word-Generator-master\ExampleServer\bin\Release\Virgil.exe.config
+C:\Users\will\Documents\Cicero\Cicero-Word-Generator-master\ExampleServer\bin\Release\Virgil.exe
+C:\Users\will\Documents\Cicero\Cicero-Word-Generator-master\ExampleServer\bin\Release\Virgil.pdb
+C:\Users\will\Documents\Cicero\Cicero-Word-Generator-master\ExampleServer\bin\Release\DataStructures.dll
+C:\Users\will\Documents\Cicero\Cicero-Word-Generator-master\ExampleServer\bin\Release\MySql.Data.dll
+C:\Users\will\Documents\Cicero\Cicero-Word-Generator-master\ExampleServer\bin\Release\dotMath.dll
+C:\Users\will\Documents\Cicero\Cicero-Word-Generator-master\ExampleServer\bin\Release\DataStructures.pdb
+C:\Users\will\Documents\Cicero\Cicero-Word-Generator-master\ExampleServer\obj\Release\Virgil.MainExampleServerlForm.resources
+C:\Users\will\Documents\Cicero\Cicero-Word-Generator-master\ExampleServer\obj\Release\Virgil.Properties.Resources.resources
+C:\Users\will\Documents\Cicero\Cicero-Word-Generator-master\ExampleServer\obj\Release\Virgil.exe
+C:\Users\will\Documents\Cicero\Cicero-Word-Generator-master\ExampleServer\obj\Release\Virgil.pdb
+C:\Users\will\Documents\Cicero\Cicero-Word-Generator-master\ExampleServer\obj\Release\ExampleServer.csprojResolveAssemblyReference.cache
+C:\Users\will\Documents\Cicero\Cicero-Word-Generator-master\ExampleServer\obj\Release\ExampleServer.csproj.GenerateResource.Cache

@@ -1,0 +1,71 @@
+C:\Users\will\Dropbox\Cold Atoms\Will\Cicero Update\BEC 5 Cicero VC (Latest)\ExampleServer\bin\Release\Poseidon.exe.config
+C:\Users\will\Dropbox\Cold Atoms\Will\Cicero Update\BEC 5 Cicero VC (Latest)\ExampleServer\bin\Release\Poseidon.exe
+C:\Users\will\Dropbox\Cold Atoms\Will\Cicero Update\BEC 5 Cicero VC (Latest)\ExampleServer\bin\Release\Poseidon.pdb
+C:\Users\will\Dropbox\Cold Atoms\Will\Cicero Update\BEC 5 Cicero VC (Latest)\ExampleServer\bin\Release\DataStructures.dll
+C:\Users\will\Dropbox\Cold Atoms\Will\Cicero Update\BEC 5 Cicero VC (Latest)\ExampleServer\bin\Release\dotMath.dll
+C:\Users\will\Dropbox\Cold Atoms\Will\Cicero Update\BEC 5 Cicero VC (Latest)\ExampleServer\bin\Release\MySql.Data.dll
+C:\Users\will\Dropbox\Cold Atoms\Will\Cicero Update\BEC 5 Cicero VC (Latest)\ExampleServer\bin\Release\DataStructures.pdb
+C:\Users\will\Dropbox\Cold Atoms\Will\Cicero Update\BEC 5 Cicero VC (Latest)\ExampleServer\obj\Release\Poseidon.csprojResolveAssemblyReference.cache
+C:\Users\will\Dropbox\Cold Atoms\Will\Cicero Update\BEC 5 Cicero VC (Latest)\ExampleServer\obj\Release\Poseidon.Properties.Resources.resources
+C:\Users\will\Dropbox\Cold Atoms\Will\Cicero Update\BEC 5 Cicero VC (Latest)\ExampleServer\obj\Release\Poseidon.csproj.GenerateResource.Cache
+C:\Users\will\Dropbox\Cold Atoms\Will\Cicero Update\BEC 5 Cicero VC (Latest)\ExampleServer\obj\Release\Poseidon.exe
+C:\Users\will\Dropbox\Cold Atoms\Will\Cicero Update\BEC 5 Cicero VC (Latest)\ExampleServer\obj\Release\Poseidon.pdb
+C:\Users\will\Dropbox\Cold Atoms\Will\Cicero Update\BEC 5 Cicero VC (Latest)\ExampleServer\obj\Release\Poseidon.MainExampleServerlForm.resources
+C:\Users\BECV\Dropbox\Cold Atoms\Will\Cicero Update\BEC 5 Cicero VC (Latest)\ExampleServer\bin\Release\Poseidon.exe.config
+C:\Users\BECV\Dropbox\Cold Atoms\Will\Cicero Update\BEC 5 Cicero VC (Latest)\ExampleServer\bin\Release\Poseidon.exe
+C:\Users\BECV\Dropbox\Cold Atoms\Will\Cicero Update\BEC 5 Cicero VC (Latest)\ExampleServer\bin\Release\Poseidon.pdb
+C:\Users\BECV\Dropbox\Cold Atoms\Will\Cicero Update\BEC 5 Cicero VC (Latest)\ExampleServer\bin\Release\DataStructures.dll
+C:\Users\BECV\Dropbox\Cold Atoms\Will\Cicero Update\BEC 5 Cicero VC (Latest)\ExampleServer\bin\Release\dotMath.dll
+C:\Users\BECV\Dropbox\Cold Atoms\Will\Cicero Update\BEC 5 Cicero VC (Latest)\ExampleServer\bin\Release\MySql.Data.dll
+C:\Users\BECV\Dropbox\Cold Atoms\Will\Cicero Update\BEC 5 Cicero VC (Latest)\ExampleServer\bin\Release\DataStructures.pdb
+C:\Users\BECV\Dropbox\Cold Atoms\Will\Cicero Update\BEC 5 Cicero VC (Latest)\ExampleServer\obj\Release\Poseidon.csprojResolveAssemblyReference.cache
+C:\Users\BECV\Dropbox\Cold Atoms\Will\Cicero Update\BEC 5 Cicero VC (Latest)\ExampleServer\obj\Release\Poseidon.PoseidonForm.resources
+C:\Users\BECV\Dropbox\Cold Atoms\Will\Cicero Update\BEC 5 Cicero VC (Latest)\ExampleServer\obj\Release\Poseidon.Properties.Resources.resources
+C:\Users\BECV\Dropbox\Cold Atoms\Will\Cicero Update\BEC 5 Cicero VC (Latest)\ExampleServer\obj\Release\Poseidon.csproj.GenerateResource.Cache
+C:\Users\BECV\Dropbox\Cold Atoms\Will\Cicero Update\BEC 5 Cicero VC (Latest)\ExampleServer\obj\Release\Poseidon.exe
+C:\Users\BECV\Dropbox\Cold Atoms\Will\Cicero Update\BEC 5 Cicero VC (Latest)\ExampleServer\obj\Release\Poseidon.pdb
+C:\Users\Dypole\Desktop\BEC 5 Cicero VC (Latest)\BEC 5 Cicero VC (Latest)\ExampleServer\obj\Release\Poseidon.csprojResolveAssemblyReference.cache
+C:\Users\Dypole\Desktop\BEC 5 Cicero VC (Latest)\BEC 5 Cicero VC (Latest)\ExampleServer\obj\Release\Poseidon.PoseidonForm.resources
+C:\Users\Dypole\Desktop\BEC 5 Cicero VC (Latest)\BEC 5 Cicero VC (Latest)\ExampleServer\obj\Release\Poseidon.Properties.Resources.resources
+C:\Users\Dypole\Desktop\BEC 5 Cicero VC (Latest)\BEC 5 Cicero VC (Latest)\ExampleServer\obj\Release\Poseidon.csproj.GenerateResource.Cache
+C:\Users\Dypole\Desktop\BEC 5 Cicero VC (Latest)\BEC 5 Cicero VC (Latest)\ExampleServer\obj\Release\Poseidon.csproj.CoreCompileInputs.cache
+C:\Users\Dypole\Desktop\BEC 5 Cicero VC (Latest)\BEC 5 Cicero VC (Latest)\ExampleServer\bin\Release\Poseidon.exe.config
+C:\Users\Dypole\Desktop\BEC 5 Cicero VC (Latest)\BEC 5 Cicero VC (Latest)\ExampleServer\bin\Release\Poseidon.exe
+C:\Users\Dypole\Desktop\BEC 5 Cicero VC (Latest)\BEC 5 Cicero VC (Latest)\ExampleServer\bin\Release\Poseidon.pdb
+C:\Users\Dypole\Desktop\BEC 5 Cicero VC (Latest)\BEC 5 Cicero VC (Latest)\ExampleServer\bin\Release\DataStructures.dll
+C:\Users\Dypole\Desktop\BEC 5 Cicero VC (Latest)\BEC 5 Cicero VC (Latest)\ExampleServer\bin\Release\Renci.SshNet.dll
+C:\Users\Dypole\Desktop\BEC 5 Cicero VC (Latest)\BEC 5 Cicero VC (Latest)\ExampleServer\bin\Release\dotMath.dll
+C:\Users\Dypole\Desktop\BEC 5 Cicero VC (Latest)\BEC 5 Cicero VC (Latest)\ExampleServer\bin\Release\MySql.Data.dll
+C:\Users\Dypole\Desktop\BEC 5 Cicero VC (Latest)\BEC 5 Cicero VC (Latest)\ExampleServer\bin\Release\DataStructures.pdb
+C:\Users\Dypole\Desktop\BEC 5 Cicero VC (Latest)\BEC 5 Cicero VC (Latest)\ExampleServer\obj\Release\Poseidon.exe
+C:\Users\Dypole\Desktop\BEC 5 Cicero VC (Latest)\BEC 5 Cicero VC (Latest)\ExampleServer\obj\Release\Poseidon.pdb
+C:\Users\Li\Desktop\3_11 Cicero Distribution\BEC 5 Cicero VC (Latest)\ExampleServer\bin\Release\Poseidon.exe.config
+C:\Users\Li\Desktop\3_11 Cicero Distribution\BEC 5 Cicero VC (Latest)\ExampleServer\bin\Release\Poseidon.exe
+C:\Users\Li\Desktop\3_11 Cicero Distribution\BEC 5 Cicero VC (Latest)\ExampleServer\bin\Release\Poseidon.pdb
+C:\Users\Li\Desktop\3_11 Cicero Distribution\BEC 5 Cicero VC (Latest)\ExampleServer\bin\Release\DataStructures.dll
+C:\Users\Li\Desktop\3_11 Cicero Distribution\BEC 5 Cicero VC (Latest)\ExampleServer\bin\Release\dotMath.dll
+C:\Users\Li\Desktop\3_11 Cicero Distribution\BEC 5 Cicero VC (Latest)\ExampleServer\bin\Release\MySql.Data.dll
+C:\Users\Li\Desktop\3_11 Cicero Distribution\BEC 5 Cicero VC (Latest)\ExampleServer\bin\Release\DataStructures.pdb
+C:\Users\Li\Desktop\3_11 Cicero Distribution\BEC 5 Cicero VC (Latest)\ExampleServer\obj\Release\Poseidon.PoseidonForm.resources
+C:\Users\Li\Desktop\3_11 Cicero Distribution\BEC 5 Cicero VC (Latest)\ExampleServer\obj\Release\Poseidon.Properties.Resources.resources
+C:\Users\Li\Desktop\3_11 Cicero Distribution\BEC 5 Cicero VC (Latest)\ExampleServer\obj\Release\Poseidon.csproj.GenerateResource.cache
+C:\Users\Li\Desktop\3_11 Cicero Distribution\BEC 5 Cicero VC (Latest)\ExampleServer\obj\Release\Poseidon.csproj.CoreCompileInputs.cache
+C:\Users\Li\Desktop\3_11 Cicero Distribution\BEC 5 Cicero VC (Latest)\ExampleServer\obj\Release\Poseidon.csproj.CopyComplete
+C:\Users\Li\Desktop\3_11 Cicero Distribution\BEC 5 Cicero VC (Latest)\ExampleServer\obj\Release\Poseidon.exe
+C:\Users\Li\Desktop\3_11 Cicero Distribution\BEC 5 Cicero VC (Latest)\ExampleServer\obj\Release\Poseidon.pdb
+C:\Users\Dypole\Desktop\3_11 Cicero Distribution\BEC 5 Cicero VC (Latest)\ExampleServer\bin\Release\Poseidon.exe.config
+C:\Users\Dypole\Desktop\3_11 Cicero Distribution\BEC 5 Cicero VC (Latest)\ExampleServer\bin\Release\Poseidon.exe
+C:\Users\Dypole\Desktop\3_11 Cicero Distribution\BEC 5 Cicero VC (Latest)\ExampleServer\bin\Release\Poseidon.pdb
+C:\Users\Dypole\Desktop\3_11 Cicero Distribution\BEC 5 Cicero VC (Latest)\ExampleServer\bin\Release\DataStructures.dll
+C:\Users\Dypole\Desktop\3_11 Cicero Distribution\BEC 5 Cicero VC (Latest)\ExampleServer\bin\Release\Renci.SshNet.dll
+C:\Users\Dypole\Desktop\3_11 Cicero Distribution\BEC 5 Cicero VC (Latest)\ExampleServer\bin\Release\dotMath.dll
+C:\Users\Dypole\Desktop\3_11 Cicero Distribution\BEC 5 Cicero VC (Latest)\ExampleServer\bin\Release\MySql.Data.dll
+C:\Users\Dypole\Desktop\3_11 Cicero Distribution\BEC 5 Cicero VC (Latest)\ExampleServer\bin\Release\DataStructures.pdb
+C:\Users\Dypole\Desktop\3_11 Cicero Distribution\BEC 5 Cicero VC (Latest)\ExampleServer\obj\Release\Poseidon.csprojResolveAssemblyReference.cache
+C:\Users\Dypole\Desktop\3_11 Cicero Distribution\BEC 5 Cicero VC (Latest)\ExampleServer\obj\Release\Poseidon.PoseidonForm.resources
+C:\Users\Dypole\Desktop\3_11 Cicero Distribution\BEC 5 Cicero VC (Latest)\ExampleServer\obj\Release\Poseidon.Properties.Resources.resources
+C:\Users\Dypole\Desktop\3_11 Cicero Distribution\BEC 5 Cicero VC (Latest)\ExampleServer\obj\Release\Poseidon.csproj.GenerateResource.Cache
+C:\Users\Dypole\Desktop\3_11 Cicero Distribution\BEC 5 Cicero VC (Latest)\ExampleServer\obj\Release\Poseidon.csproj.CoreCompileInputs.cache
+C:\Users\Dypole\Desktop\3_11 Cicero Distribution\BEC 5 Cicero VC (Latest)\ExampleServer\obj\Release\Poseidon.exe
+C:\Users\Dypole\Desktop\3_11 Cicero Distribution\BEC 5 Cicero VC (Latest)\ExampleServer\obj\Release\Poseidon.pdb
+C:\Users\Li\Desktop\3_11 Cicero Distribution\BEC 5 Cicero VC (Latest)\ExampleServer\obj\Release\Poseidon.csprojAssemblyReference.cache
