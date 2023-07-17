@@ -1,0 +1,15 @@
+C:\Users\Li\Desktop\3_11 Cicero Distribution\BEC 5 Cicero VC (Latest)\Swarm\bin\Release\Swarm.exe.config
+C:\Users\Li\Desktop\3_11 Cicero Distribution\BEC 5 Cicero VC (Latest)\Swarm\bin\Release\Swarm.exe
+C:\Users\Li\Desktop\3_11 Cicero Distribution\BEC 5 Cicero VC (Latest)\Swarm\bin\Release\Swarm.pdb
+C:\Users\Li\Desktop\3_11 Cicero Distribution\BEC 5 Cicero VC (Latest)\Swarm\bin\Release\DataStructures.dll
+C:\Users\Li\Desktop\3_11 Cicero Distribution\BEC 5 Cicero VC (Latest)\Swarm\bin\Release\dotMath.dll
+C:\Users\Li\Desktop\3_11 Cicero Distribution\BEC 5 Cicero VC (Latest)\Swarm\bin\Release\MySql.Data.dll
+C:\Users\Li\Desktop\3_11 Cicero Distribution\BEC 5 Cicero VC (Latest)\Swarm\bin\Release\DataStructures.pdb
+C:\Users\Li\Desktop\3_11 Cicero Distribution\BEC 5 Cicero VC (Latest)\Swarm\obj\Release\Swarm.csprojAssemblyReference.cache
+C:\Users\Li\Desktop\3_11 Cicero Distribution\BEC 5 Cicero VC (Latest)\Swarm\obj\Release\Swarm.SwarmForm.resources
+C:\Users\Li\Desktop\3_11 Cicero Distribution\BEC 5 Cicero VC (Latest)\Swarm\obj\Release\Swarm.Properties.Resources.resources
+C:\Users\Li\Desktop\3_11 Cicero Distribution\BEC 5 Cicero VC (Latest)\Swarm\obj\Release\Swarm.csproj.GenerateResource.cache
+C:\Users\Li\Desktop\3_11 Cicero Distribution\BEC 5 Cicero VC (Latest)\Swarm\obj\Release\Swarm.csproj.CoreCompileInputs.cache
+C:\Users\Li\Desktop\3_11 Cicero Distribution\BEC 5 Cicero VC (Latest)\Swarm\obj\Release\Swarm.csproj.CopyComplete
+C:\Users\Li\Desktop\3_11 Cicero Distribution\BEC 5 Cicero VC (Latest)\Swarm\obj\Release\Swarm.exe
+C:\Users\Li\Desktop\3_11 Cicero Distribution\BEC 5 Cicero VC (Latest)\Swarm\obj\Release\Swarm.pdb
