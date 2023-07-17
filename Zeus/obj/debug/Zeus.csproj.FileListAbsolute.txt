@@ -1,0 +1,35 @@
+C:\Users\will\Desktop\BEC 5 Cicero VC\ExampleServer\bin\Debug\Zeus.exe.config
+C:\Users\Dypole\Desktop\BEC 5 Cicero VC (Latest)\BEC 5 Cicero VC (Latest)\Zeus\obj\Debug\Zeus.csprojResolveAssemblyReference.cache
+C:\Users\Dypole\Desktop\BEC 5 Cicero VC (Latest)\BEC 5 Cicero VC (Latest)\Zeus\obj\Debug\Zeus.MainExampleServerlForm.resources
+C:\Users\Dypole\Desktop\BEC 5 Cicero VC (Latest)\BEC 5 Cicero VC (Latest)\Zeus\obj\Debug\Zeus.Properties.Resources.resources
+C:\Users\Dypole\Desktop\BEC 5 Cicero VC (Latest)\BEC 5 Cicero VC (Latest)\Zeus\obj\Debug\Zeus.csproj.GenerateResource.Cache
+C:\Users\Dypole\Desktop\BEC 5 Cicero VC (Latest)\BEC 5 Cicero VC (Latest)\Zeus\obj\Debug\Zeus.csproj.CoreCompileInputs.cache
+C:\Users\Li\Desktop\3_11 Cicero Distribution\BEC 5 Cicero VC (Latest)\Zeus\obj\Debug\Zeus.csprojAssemblyReference.cache
+C:\Users\Li\Desktop\3_11 Cicero Distribution\BEC 5 Cicero VC (Latest)\Zeus\obj\Debug\Zeus.MainExampleServerlForm.resources
+C:\Users\Li\Desktop\3_11 Cicero Distribution\BEC 5 Cicero VC (Latest)\Zeus\obj\Debug\Zeus.Properties.Resources.resources
+C:\Users\Li\Desktop\3_11 Cicero Distribution\BEC 5 Cicero VC (Latest)\Zeus\obj\Debug\Zeus.csproj.GenerateResource.cache
+C:\Users\Li\Desktop\3_11 Cicero Distribution\BEC 5 Cicero VC (Latest)\Zeus\obj\Debug\Zeus.csproj.CoreCompileInputs.cache
+C:\Users\Dypole\Desktop\3_11 Cicero Distribution\BEC 5 Cicero VC (Latest)\Zeus\obj\Debug\Zeus.csprojResolveAssemblyReference.cache
+C:\Users\Dypole\Desktop\3_11 Cicero Distribution\BEC 5 Cicero VC (Latest)\Zeus\obj\Debug\Zeus.MainExampleServerlForm.resources
+C:\Users\Dypole\Desktop\3_11 Cicero Distribution\BEC 5 Cicero VC (Latest)\Zeus\obj\Debug\Zeus.Properties.Resources.resources
+C:\Users\Dypole\Desktop\3_11 Cicero Distribution\BEC 5 Cicero VC (Latest)\Zeus\obj\Debug\Zeus.csproj.GenerateResource.Cache
+C:\Users\Dypole\Desktop\3_11 Cicero Distribution\BEC 5 Cicero VC (Latest)\Zeus\obj\Debug\Zeus.csproj.CoreCompileInputs.cache
+C:\Users\Li\Desktop\3_11 Cicero Distribution\BEC 5 Cicero VC (Latest)\Zeus\bin\Debug\Zeus.exe.config
+C:\Users\Li\Desktop\3_11 Cicero Distribution\BEC 5 Cicero VC (Latest)\Zeus\bin\Debug\Zeus.exe
+C:\Users\Li\Desktop\3_11 Cicero Distribution\BEC 5 Cicero VC (Latest)\Zeus\bin\Debug\Zeus.pdb
+C:\Users\Li\Desktop\3_11 Cicero Distribution\BEC 5 Cicero VC (Latest)\Zeus\bin\Debug\DatabaseHelper.dll
+C:\Users\Li\Desktop\3_11 Cicero Distribution\BEC 5 Cicero VC (Latest)\Zeus\bin\Debug\DataStructures.dll
+C:\Users\Li\Desktop\3_11 Cicero Distribution\BEC 5 Cicero VC (Latest)\Zeus\bin\Debug\HidLibrary.dll
+C:\Users\Li\Desktop\3_11 Cicero Distribution\BEC 5 Cicero VC (Latest)\Zeus\bin\Debug\dotMath.dll
+C:\Users\Li\Desktop\3_11 Cicero Distribution\BEC 5 Cicero VC (Latest)\Zeus\bin\Debug\MySql.Data.dll
+C:\Users\Li\Desktop\3_11 Cicero Distribution\BEC 5 Cicero VC (Latest)\Zeus\bin\Debug\Enyim.Caching.dll
+C:\Users\Li\Desktop\3_11 Cicero Distribution\BEC 5 Cicero VC (Latest)\Zeus\bin\Debug\DataStructures.pdb
+C:\Users\Li\Desktop\3_11 Cicero Distribution\BEC 5 Cicero VC (Latest)\Zeus\bin\Debug\DatabaseHelper.pdb
+C:\Users\Li\Desktop\3_11 Cicero Distribution\BEC 5 Cicero VC (Latest)\Zeus\bin\Debug\dotMath.pdb
+C:\Users\Li\Desktop\3_11 Cicero Distribution\BEC 5 Cicero VC (Latest)\Zeus\obj\Debug\Zeus.csproj.CopyComplete
+C:\Users\Li\Desktop\3_11 Cicero Distribution\BEC 5 Cicero VC (Latest)\Zeus\obj\Debug\Zeus.exe
+C:\Users\Li\Desktop\3_11 Cicero Distribution\BEC 5 Cicero VC (Latest)\Zeus\obj\Debug\Zeus.pdb
+C:\Users\Li\Desktop\3_11 Cicero Distribution\BEC 5 Cicero VC (Latest)\Zeus\bin\Debug\ZeusForm.resx
+C:\Users\Li\Desktop\3_11 Cicero Distribution\BEC 5 Cicero VC (Latest)\Zeus\bin\Debug\ZeusForm.cs
+C:\Users\Li\Desktop\3_11 Cicero Distribution\BEC 5 Cicero VC (Latest)\Zeus\bin\Debug\ZeusForm.Designer.cs
+C:\Users\Li\Desktop\3_11 Cicero Distribution\BEC 5 Cicero VC (Latest)\Zeus\bin\Debug\public_key.snk
